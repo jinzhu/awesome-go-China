@@ -264,6 +264,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *实现对象-关系映射或其它数据映射技术的库。*
 
 - [xorm](https://github.com/go-xorm/xorm)：一个简单且强大的ORM库，支持MySQL、Postgres、TiDB、SQLite 3、MSSQL、Oracle等。
+- [GORM](https://github.com/jinzhu/gorm): 更佳程序员友好度及可用性的 Golang 全功能 ORM
 
 ## Package Management
 
